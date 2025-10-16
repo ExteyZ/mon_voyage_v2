@@ -113,12 +113,12 @@ footer {
 
 .slides {
   display: flex;
-  width: 50%; /* 3 images */
+  width: 10%; /* 3 images */
   animation: slide 10s infinite;
 }
 
 .slides img {
-  width: 50%;
+  width: 10%;
   height: auto;
 }
 
